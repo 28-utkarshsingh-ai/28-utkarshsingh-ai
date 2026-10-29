@@ -1,13 +1,13 @@
-Hi there! 👋 I’m Utkarsh Singh
+Hi there! I’m Utkarsh Singh
 
-👨‍🎓 Who I Am
+ Who I Am
 
 * Name: Utkarsh Singh
 * Education: Post Graduate Diploma in Management (PGDM)
 * College: Fortune Institute of International Business (FIIB), New Delhi
 * About Me: I am a PGDM student at FIIB with an interest in business, finance, analytics, marketing, and innovation. I enjoy exploring real-world business challenges, working on case studies, and learning how data and business strategies help organizations make better decisions.
 
-💡 My Interests
+ My Interests
 
 * Finance and Financial Analysis
 * Business Analytics and Data-Driven Decision-Making
@@ -16,7 +16,7 @@ Hi there! 👋 I’m Utkarsh Singh
 * Leadership and Management
 * Business Strategy and Problem-Solving
 
-🛠️ My Skills
+ My Skills
 
 * Communication and Presentation
 * Critical Thinking and Analytical Thinking
@@ -26,7 +26,7 @@ Hi there! 👋 I’m Utkarsh Singh
 * Microsoft Excel and Data Organization
 * Strategic Thinking and Decision-Making
 
-📚 My Learning Journey
+ My Learning Journey
 
 * Exploring real-world business problems and practical solutions.
 * Working on academic projects, business case studies, and presentations.
@@ -35,7 +35,7 @@ Hi there! 👋 I’m Utkarsh Singh
 * Improving communication, teamwork, and professional presentation skills.
 * Connecting classroom learning with real-world business applications.
 
-🎯 My Career Goals
+My Career Goals
 
 * Gain practical knowledge of business and management.
 * Build strong financial and analytical skills.
@@ -44,7 +44,7 @@ Hi there! 👋 I’m Utkarsh Singh
 * Build a strong professional network.
 * Grow into a successful business and management professional.
 
-🚀 What I Share Here
+ What I Share Here
 
 * Academic Projects and Assignments
 * Business Case Studies and Analysis
@@ -53,8 +53,7 @@ Hi there! 👋 I’m Utkarsh Singh
 * Excel-Based Analysis and Data Insights
 * New Skills, Ideas, and Learning Experiences
 * My Journey of Continuous Learning and Professional Growth
-
-🤝 Let’s Connect!
+ Let’s Connect!
 
 I am always open to learning, collaborating on projects, exchanging ideas, and connecting with people who share an interest in business, finance, analytics, and innovation.
 
